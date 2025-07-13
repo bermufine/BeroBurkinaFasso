@@ -10,6 +10,7 @@
 "https://edge17.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8"
 ],
 "subtitleBurk": "By Channel",
+"numberBurk": "270",
 "thumbBurk": "https://od.lk/s/M18yNjk1NzQwNjBf/burkina.png",
 "titleBurk": "RTB"
 },
@@ -19,6 +20,7 @@
 "http://69.64.57.208/rtb/playlist.m3u8"
 ],
 "subtitleBurk": "By Channel",
+"numberBurk": "271",
 "thumbBurk": "https://od.lk/s/M18yNjk1NzQwNjBf/burkina.png",
 "titleBurk": "RTB / LIEN 2"
 },
@@ -28,6 +30,7 @@
 "http://185.59.221.131:8081/live/rtb/playlist.m3u8"
 ],
 "subtitleBurk": "By Channel",
+"numberBurk": "272",
 "thumbBurk": "https://od.lk/s/M18yNjk1NzQwNjBf/burkina.png",
 "titleBurk": "RTB / LIEN 3"
 },
@@ -37,6 +40,7 @@
 "https://edge.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8"
 ],
 "subtitleBurk": "By Channel",
+"numberBurk": "273",
 "thumbBurk": "https://od.lk/s/M18yNjk1NzQxODRf/rtburkina.png",
 "titleBurk": "Radio Television Burkina Fasso"
 },
@@ -46,6 +50,7 @@
 "https://ssh101.bozztv.com/ssh101/alhoudatv/playlist.m3u8"
 ],
 "subtitleBurk": "By Channel",
+"numberBurk": "274",
 "thumbBurk": "https://od.lk/s/M18yODQ2ODkyODJf/TVZAFRIC.jpeg",
 "titleBurk": "ALHOUDA TV"
 },
@@ -55,6 +60,7 @@
 "https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8"
 ],
 "subtitleBurk": "By Channel",
+"numberBurk": "275",
 "thumbBurk": "https://od.lk/s/M18yODM2MDg4NzNf/bf1.png",
 "titleBurk": "BF1 TV"
 },
@@ -64,6 +70,7 @@
 "http://185.59.221.131:8081/live/bf1/playlist.m3u8"
 ],
 "subtitleBurk": "By Channel",
+"numberBurk": "276",
 "thumbBurk": "https://od.lk/s/M18yODM2MDg4NzNf/bf1.png",
 "titleBurk": "BF1 TV / LIEN 2"
 },
@@ -73,6 +80,7 @@
 "http://185.59.221.131:8081/live/burkinainfo/playlist.m3u8"
 ],
 "subtitleBurk": "By Channel",
+"numberBurk": "277",
 "thumbBurk": "https://od.lk/s/M18yODM2MDg4NzNf/bf1.png",
 "titleBurk": "BURKINA INFOS"
 },
@@ -82,6 +90,7 @@
 "https://edge19.vedge.infomaniak.com/livecast/ik:impacttv_2/chunklist_w692795283.m3u8?spark=2360e0bd-82d7-4364-9e53-a4a53a6b8e59&token="
 ],
 "subtitleBurk": "By Channel",
+"numberBurk": "278",
 "thumbBurk": "https://od.lk/s/M18yODQwNTU4OThf/impactburkina.png",
 "titleBurk": "IMPACT TV"
 }
