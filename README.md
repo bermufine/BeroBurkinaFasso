@@ -1,9 +1,49 @@
 # BeroBurkinaFasso
 {
-"categorieBurk": [
-{
-"name": "Movies",
-"videos": [
+  "categorieBurk": [{"name": "Movies",
+      "videos": [
+      {
+         "descriptionBurk": "Savane TV est une chaîne de télévision privée au Burkina Faso. La télévision se donne pour mission l'information, l'éducation et le divertissement.",
+         "sourceBurk": [
+        "https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8"
+        ],
+       "subtitleBurk": "All Channel",
+       "numberBurk": "405",
+       "thumbBurk": "https://od.lk/s/NDZfODkxOTgxMDJf/savanetv.png",
+       "titleBurk": "SAVANE TV"
+     },
+     {
+         "descriptionBurk": "BF1 TV est une chaîne de télévision privée au Burkina Faso. La télévision se donne pour mission l'information, l'éducation et le divertissement.",
+         "sourceBurk": [
+        "https://live2.eu-north-1a.cf.dmcdn.net/sec2(ruPtk-SaWsAveLOMKTPkd5CDfy85FLxUKmckbTzno5fq1N1Z7vrZS4482rf37NE8ByH8FSrU8pieER4auYH11RxJjcC34lt3KIYWVFCARZgRlOAMFiCYMz1KnOPXkU-T)/cloud/3/xa4kdv6/s/live-720.m3u8"
+        ],
+       "subtitleBurk": "All Channel",
+       "numberBurk": "406",
+       "thumbBurk": "https://od.lk/thumb/M18zMzY2NjkzNzZfdDZIMUo",
+       "titleBurk": "BF1 TV"
+     },
+     {
+         "descriptionBurk": "Filinfo TV est une chaîne de télévision privée au Burkina Faso. La télévision se donne pour mission l'information, l'éducation et le divertissement.",
+         "sourceBurk": [
+        "https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8"
+        ],
+       "subtitleBurk": "All Channel",
+       "numberBurk": "407",
+       "thumbBurk": "https://od.lk/thumb/M18zMzY2Njk3MzFfTjhjWWc",
+       "titleBurk": "FILINFO TV"
+     }
+    ]
+  }
+ ]
+}
+
+
+
+
+
+
+
+      
 {
 "descriptionBurk": "Burkina Info TV diffuse des emissions ainsi que les Sports, Musique, Culture et Films d'Action.",
 "sourceBurk": [
@@ -44,20 +84,8 @@
 "thumbBurk": "https://od.lk/s/NDZfODkxOTgxMDFf/RTB2.jpeg",
 "titleBurk": "RTB HAUT -BASIN"
 },
-{
-"descriptionBurk": "Savane TV est une chaîne de télévision privée au Burkina Faso. La télévision se donne pour mission l'information, l'éducation et le divertissement.",
-"sourceBurk": [
-"https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8"
-],
-"subtitleBurk": "All Channel",
-"numberBurk": "205",
-"thumbBurk": "https://od.lk/s/NDZfODkxOTgxMDJf/savanetv.png",
-"titleBurk": "SAVANE TV"
-}
-]
-}
-]
-}
+     
+
 
 
 
